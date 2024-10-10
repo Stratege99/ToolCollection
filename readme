@@ -2,4 +2,4 @@
 
   This state of the Tool collection does not include automatic installation for all tools to function properly.
   Therefore you have to create the folders and fill them with the corresponding files for Ffmpeg (https://www.gyan.dev/ffmpeg/builds/), yt-dlp (https://github.com/yt-dlp/yt-dlp/releases), and spotdl (https://github.com/spotDL/spotify-downloader/releases)
-  I recommend to create folders like "C:\Tools\xxx" for 'xxx' the names of the filed, like (Ffmpeg, yt-dlp, spotdl)
+  I recommend to create folders like "C:\Tools\xxx" for 'xxx' the names of the files, like (Ffmpeg, yt-dlp, spotdl)
